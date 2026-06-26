@@ -30,4 +30,4 @@ jobs:
               uses: docker/build-push-action@v7
               with:
                   push: true
-                  tags: sample-app:latest
+                  tags: ghcr.io/hojatm-huma/sample-app:latest
